@@ -1,0 +1,23 @@
+# Model weights (auto-downloaded by Ultralytics on first run)
+*.pt
+*.ts
+*.onnx
+*.engine
+
+# Detection outputs
+*_detected.*
+runs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editor / OS / local settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.claude/settings.local.json
